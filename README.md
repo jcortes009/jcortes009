@@ -16,7 +16,6 @@ graph TD;
     Front-End-->React;
     Front-End-->XML;
     Front-End-->JSON;
-    Front-End-->Vue;
     Front-End-->TypeScript;
     Front-End-->Next;
 
