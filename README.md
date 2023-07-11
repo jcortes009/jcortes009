@@ -27,11 +27,13 @@ graph TD;
 </p>
 
 # 📊 GitHub Stats:
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jp-cortes&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="jp-cortes github stats" /> 
+  <!--<div align="center">  
+
+ <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jp-cortes&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="jp-cortes github stats" />
+
   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jp-cortes&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
-</div> 
+</div>  --> 
 
 <p align="center">
  <img  src="https://github-readme-streak-stats.herokuapp.com?user=jp-cortes&theme=tokyonight_duo&hide_border=true"
@@ -43,7 +45,7 @@ graph TD;
 --- -->
  # 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-pablo-cortes/)
- <!--[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@jcortes209) -->
+
 
  # 💻 Tech Skills:
  
@@ -71,7 +73,7 @@ graph TD;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48" title="Github">   
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="48" title="Postman">   
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" width="48" title="StackOverFlow">  
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48" title="Figma">   
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48" title="Figma">   
 <img src="" width="48" title="">
 <p/>
  </div>
