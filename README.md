@@ -33,11 +33,11 @@ graph TD;
 
   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jp-cortes&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
-</div>  --> 
+</div>  
 
 <p align="center">
  <img  src="https://github-readme-streak-stats.herokuapp.com?user=jp-cortes&theme=tokyonight_duo&hide_border=true"
-</p>
+</p>--> c
 <!--![](https://github-readme-stats.vercel.app/api?username=jp-cortes&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jp-cortes&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jp-cortes&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
