@@ -20,29 +20,7 @@ graph TD;
     Front-End-->Next;
 
 ```
-<!--![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)-->
-# 📊 GitHub Statistics:
-<h1 align="center">Github Metrics </h1><p align="center">
-<img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jp-cortes&theme=github_dark" />
-</p>
 
-# 📊 GitHub Stats:
-  <!--<div align="center">  
-
- <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jp-cortes&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="jp-cortes github stats" />
-
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jp-cortes&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
-</div>  --> 
-
-<p align="center">
- <img  src="https://github-readme-streak-stats.herokuapp.com?user=jp-cortes&theme=tokyonight_duo&hide_border=true"
-</p>
-<!--![](https://github-readme-stats.vercel.app/api?username=jp-cortes&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jp-cortes&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jp-cortes&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
-
---- -->
  # 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-pablo-cortes/)
 
