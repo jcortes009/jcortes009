@@ -17,8 +17,14 @@ graph TD;
     Front-End-->XML;
     Front-End-->JSON;
     Front-End-->TypeScript;
-    Front-End-->Next;
-
+    Front-End-->Nextjs;
+    Front-End-->Angular;
+```
+```mermaid
+graph TD;
+    Back-End-->Node.js;
+    Back-End-->Express.js;
+    Back-End-->PostgreSQL;
 ```
 
  # 🌐 Socials:
@@ -30,6 +36,7 @@ graph TD;
 <div>
  <p align="center">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48" title="React.Js"> 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" width="48" title="Angular.Js"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="48" title="Next.Js">  
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" width="48" title="Redux.Js">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="HTML"> 
